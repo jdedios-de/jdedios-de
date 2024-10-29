@@ -9,6 +9,7 @@ I’m passionate about:
 - **Development and Operations** tools and technologies
 
 Here, you’ll find a selection of my work and contributions.
+
 ---
 
 ## 🚀 Skills
