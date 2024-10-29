@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jerome!
 
-I’m a Python Developer, Java Developer and Application Support Engr passionate about Developmement and Operations Tools and Technologies. 
-Here, you’ll find a selection of my work and contributions.
+- I’m a Python Developer, Java Developer and Application Support Engr passionate about Developmement and Operations Tools and Technologies.
+- Here, you’ll find a selection of my work and contributions.
 
 ---
 
