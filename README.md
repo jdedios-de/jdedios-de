@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
+I’m a Python Developer, Java Developer and Application Support Engr passionate about Developmement and Operations Tools and Technologies. 
+Here, you’ll find a selection of my work and contributions.
 
-**jdedios-de/jdedios-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages**: Python, JavaScript, SQL, Java
+- **Frameworks**: React, Node.js, Flask
+- **Tools**: Git, Docker, VS Code
+
+---
+
+## 📈 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&hide_border=true&theme=default)
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/jeromededios/) • [Email](jeromededios.de.2023@gmail.com)
+
+---
+
+Thanks for stopping by!
