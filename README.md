@@ -15,7 +15,7 @@
 
 ## 📂 My Organization
 
-Check out my work at [**My Organization**]([https://github.com/your-organization](https://github.com/masterschool-weiterbildung)) for more projects and collaborations!
+Check out my work at [**My Organization**](https://github.com/masterschool-weiterbildung) for more projects and collaborations!
 
 ---
 
