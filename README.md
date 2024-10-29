@@ -15,7 +15,7 @@ Here, you’ll find a selection of my work and contributions.
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdedios-de&show_icons=true&hide=issues&hide_border=true&theme=default)
 
 ---
 
