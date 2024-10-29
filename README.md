@@ -16,7 +16,7 @@ Here, you’ll find a selection of my work and contributions.
 
 - **Languages**: Python, JavaScript, SQL, Java
 - **Frameworks**: React, Node.js, Flask
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, Docker, PyCharm
 
 ---
 
