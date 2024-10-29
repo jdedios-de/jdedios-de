@@ -13,6 +13,12 @@
 
 ---
 
+## 📂 My Organization
+
+Check out my work at [**My Organization**]([https://github.com/your-organization](https://github.com/masterschool-weiterbildung)) for more projects and collaborations!
+
+---
+
 ## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdedios-de&show_icons=true&hide=issues&hide_border=true&theme=default)
