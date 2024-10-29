@@ -17,8 +17,11 @@ Here, you’ll find a selection of my work and contributions.
 - **Languages**: Python, JavaScript, SQL, Java
 - **Frameworks**: React, Node.js, Flask
 - **Tools**: Git, Docker, PyCharm
-
----
+- **ORM**: Hibernate
+- **Testing**: JUnit, Pytest
+- **Web Framework**: Struts
+- **Networking**: PRTG, ICinga
+- **APM**: Appdynamics
 
 ## 📂 My Organization
 
