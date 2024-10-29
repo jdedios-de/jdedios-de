@@ -34,7 +34,7 @@ Check out my work at [**Masterschool Weiterbildung**](https://github.com/masters
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/jeromededios/) • [Email] jeromededios.de.2023@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jeromededios/) • Email jeromededios.de.2023@gmail.com
 
 ---
 
