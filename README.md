@@ -25,8 +25,8 @@ Here, you’ll find a selection of my work and contributions.
 - **Tools**: Git, Docker, PyCharm
 - **ORM**: Hibernate
 - **Testing**:
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code> JUnit
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code> pytest
+<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code> JUnit
+<code><img width="30" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code> pytest
 - **Web Framework**: Struts
 - **Networking**: PRTG, ICinga
 - **APM**: Appdynamics
