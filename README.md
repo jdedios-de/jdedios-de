@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jerome!
+# 👋 Hey, I'm Jerome!
 
 I’m a:
 - **Python Developer**
