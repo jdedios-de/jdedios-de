@@ -8,6 +8,9 @@ I’m a:
 I’m passionate about:
 - **Development and Operations** tools and technologies
 
+In my free time:
+- I love watching **competitive Dota 2**. The competitions inspire me to keep learning and appreciate the importance of strategy, as well as the ability to adapt to changing circumstances and challenges.
+
 Here, you’ll find a selection of my work and contributions.
 
 ---
