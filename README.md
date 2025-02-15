@@ -36,9 +36,10 @@ Here, you’ll find a selection of my work and contributions.
 - **Analytics and Interactive Visualization Application**:
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/></code>
 
-## 📂 My Organization
+⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
 
-Check out my work at [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for more projects and collaborations!
+## 🚀 📂 My Organization 🚀
+Check out my work at [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations!
 
 ---
 
