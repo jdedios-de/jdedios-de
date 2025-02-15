@@ -25,7 +25,7 @@ Here, you’ll find a selection of my work and contributions.
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code> CSS
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> Javascript
 - **Frameworks**: <code><img width="30" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask " title="Flask "/></code> Flask 
-- **Tools**: Git, PyCharm <code><img width="30" src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/></code> Docker 
+- **Tools**: <code><img width="30" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/></code> Git, <code><img width="30" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" title="PyCharm"/></code> PyCharm, <code><img width="30" src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/></code> Docker 
 - **ORM**: Hibernate
 - **Testing**:
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code> JUnit
