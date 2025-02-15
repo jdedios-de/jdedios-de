@@ -12,13 +12,11 @@ I’m passionate about:
 In my free time:
 - I love watching **competitive Dota 2**. The competitions inspire me to keep learning and appreciate the importance of strategy, as well as the ability to adapt to changing circumstances and challenges.
 
-Here, you’ll find a selection of my work and contributions.
 ---
 
 ⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
-
-## 🚀 📂 My Organization 🚀
-Check out my work at [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations!
+## Here, you’ll find a selection of my work and contributions. ##
+#### Check out my work at [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations! ####
 
 ---
 
