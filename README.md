@@ -13,6 +13,12 @@ In my free time:
 - I love watching **competitive Dota 2**. The competitions inspire me to keep learning and appreciate the importance of strategy, as well as the ability to adapt to changing circumstances and challenges.
 
 Here, you’ll find a selection of my work and contributions.
+---
+
+⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
+
+## 🚀 📂 My Organization 🚀
+Check out my work at [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations!
 
 ---
 
@@ -36,13 +42,6 @@ Here, you’ll find a selection of my work and contributions.
 - **APM**: Appdynamics
 - **Analytics and Interactive Visualization Application**:
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/></code>
-
----
-
-⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
-
-## 🚀 📂 My Organization 🚀
-Check out my work at [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations!
 
 ---
 
