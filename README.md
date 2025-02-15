@@ -4,6 +4,7 @@ I’m a:
 - **Python Developer**
 - **Java Developer**
 - **Application Support Engineer**
+- With **over a decade** of experience in software development, site reliability, and application support, specializing in the **sportsbook industry**. Currently reskilling in Software Engineering and AI (GenAI Project). Skilled in Java, Python, SRE, and technical support, with a focus on innovative tech solutions. 
 
 I’m passionate about:
 - **Development and Operations** tools and technologies
