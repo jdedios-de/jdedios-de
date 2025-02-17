@@ -10,15 +10,16 @@ I’m passionate about:
 - **Development and Operations** tools and technologies
 
 In my free time:
-- Watching **competitive Dota 2** - Inspire me to keep learning and appreciate the importance of strategy, as well as the ability to adapt to changing circumstances and challenges.
+- Watching **competitive Dota 2**
+<code><img width="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngplay.com%2Fwp-content%2Fuploads%2F10%2FDota-2-Logo-No-Background.png" alt="Dota 2" title="Dota 2"/></code>
 
 ---
-### I am currently working on ... ###
+## 💻 I am currently working on ... ##
 ⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
 #### [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations! ####
 
 ---
-### I am currently learning ... ###
+## 📕 I am currently learning ... ##
 <code><img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fwikipedia%2Fflags%2F1024%2FDE-Germany-Flag-icon.png" alt="German" title="German"/></code>
 ---
 
