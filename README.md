@@ -43,6 +43,18 @@ In my free time:
 - **APM**: Appdynamics
 - **Analytics and Interactive Visualization Application**:
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/></code>
+- **Application Server**:
+<code><img width="30" src="https://img.icons8.com/color/96/tomcat.png" alt="Apache Tomcat" title="Apache Tomcat"/></code>
+<code><img width="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/145px-GlassFish_logo.svg.png" alt="Sun GlassFish" title="Sun GlassFish"/></code>
+<code><img width="30" src="http://www.ephlux.com/wp-content/uploads/2012/10/Oracle-Weblogic-Server.png" alt="Oracle Weblogic" title="Oracle Weblogic"/></code>
+- **Integation Tool**:
+<code><img width="30" src="http://open-esb.net/images/OpenESB-2017/OpenESB_logo/logo-openesb-cropted.png" alt="OpenESB" title="OpenESB"/></code>
+- **Load Testing**:
+<code><img width="30" src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" title="JMeter"/></code>
+- **Synthetic Monitoring**:
+<code><img width="30" src="https://i.pinimg.com/originals/80/69/91/8069914cd98ab5842c4987ab47880d5c.png" alt="Catchpoint" title="Catchpoint"/></code>
+
+
 
 ---
 
