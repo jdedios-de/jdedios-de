@@ -61,6 +61,8 @@ In my free time:
 - **Atlassian Products**:
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/220px-Atlassian_Confluence_2017_logo.svg.png" alt="Confluence" title="Confluence"/></code> Confluence
 <code><img width="50" src="https://wac-cdn.atlassian.com/dam/jcr:0efc8408-612f-4d99-98d3-b3ee714a5243/Opsgenie_24.svg?cdnVersion=2576" alt="Confluence" title="Opsgenie"/></code> Opsgenie
+- **CI/CD**:
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/250px-Jenkins_logo_with_title.svg.png" alt="Jenkins" title="Jenkins"/></code> Jenkins
 
 *Java Developer*
 ---
