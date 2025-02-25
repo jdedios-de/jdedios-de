@@ -36,26 +36,8 @@ In my free time:
 - **Tools**: <code><img width="30" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/></code> Git, <code><img width="30" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" title="PyCharm"/></code> PyCharm, <code><img width="30" src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/></code> Docker 
 - **Testing**:
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code> pytest
-
-*Java Developer*
----
-- **Languages**:
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code> Java
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code> HTML
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code> CSS
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> Javascript
-- **Load Testing**:
-<code><img width="50" src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" title="JMeter"/>JMeter</code>
-- **Integation Tool**:
-<code><img width="50" src="http://open-esb.net/images/OpenESB-2017/OpenESB_logo/logo-openesb-cropted.png" alt="OpenESB" title="OpenESB"/> OpenESB</code>
-- **Testing**:
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code> JUnit
-- **ORM**: <code><img width="30" src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate " title="Hibernate "/></code> Hibernate
-- **Application Server**:
-<code><img width="50" src="https://img.icons8.com/color/96/tomcat.png" alt="Apache Tomcat" title="Apache Tomcat"/> Apache Tomcat</code>
-<code><img width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/145px-GlassFish_logo.svg.png" alt="Sun GlassFish" title="Sun GlassFish"/> Sun GlassFish</code>
-<code><img width="50" src="http://www.ephlux.com/wp-content/uploads/2012/10/Oracle-Weblogic-Server.png" alt="Oracle Weblogic" title="Oracle Weblogic"/> Oracle Weblogic</code>
-- **Web Framework**: Struts
+- **ORM**:
+<code><img width="50" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*GQOCq59Ye8Ka4mEL.jpg" alt="SQLAlchemy " title="SQLAlchemy "/></code> SQLAlchemy 
 
 *Application Support Engineer*
 ---
@@ -68,9 +50,30 @@ In my free time:
 - **Networking**:
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paessler_PRTG.jpg/150px-Paessler_PRTG.jpg" alt="PRTG" title="PRTG"/> PRTG</code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Icinga_logo.svg/120px-Icinga_logo.svg.png" alt="ICinga" title="ICinga"/> ICinga</code>
-- **APM**: Appdynamics
+- **APM**: 
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Appd-logo-340x0_q100.png" alt="Appdynamics" title="Appdynamics"/> Appdynamics</code>
 
-
+*Java Developer*
+---
+- **Languages**:
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code> Java
+Java EE, JSP, Servlets, Spring JDBC
+- **Load Testing**:
+<code><img width="50" src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" title="JMeter"/>JMeter</code>
+- **Integation Tool**:
+<code><img width="50" src="http://open-esb.net/images/OpenESB-2017/OpenESB_logo/logo-openesb-cropted.png" alt="OpenESB" title="OpenESB"/> OpenESB</code>
+- **Testing**:
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code> JUnit
+- **ORM**: <code><img width="30" src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate " title="Hibernate "/></code> Hibernate
+- **Application Server**:
+<code><img width="50" src="https://img.icons8.com/color/96/tomcat.png" alt="Apache Tomcat" title="Apache Tomcat"/> Apache Tomcat</code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/145px-GlassFish_logo.svg.png" alt="Sun GlassFish" title="Sun GlassFish"/> Sun GlassFish</code>
+<code><img width="50" src="http://www.ephlux.com/wp-content/uploads/2012/10/Oracle-Weblogic-Server.png" alt="Oracle Weblogic" title="Oracle Weblogic"/> Oracle Weblogic</code>
+- **Web Framework**: Struts
+- **JS Framework**: Ajax,EXTJS,jQuery
+- **Webservices**: JAX-WS
+- **Atlassian Products**: Bitbucket, Jira, Confluence, Bamboo
+- **DB**: Oracle 10g/11g, DB2, SQL Lite, PL/SQL
 ---
 
 ## 📈 Stats
