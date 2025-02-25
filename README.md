@@ -33,7 +33,7 @@ In my free time:
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code> CSS
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> Javascript
 - **Frameworks**: <code><img width="30" src="https://img.icons8.com/nolan/96/flask.png" alt="Flask " title="Flask "/></code> Flask 
-- **Tools**: <code><img width="30" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/></code> Git, <code><img width="30" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" title="PyCharm"/></code> PyCharm, <code><img width="30" src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/></code> Docker 
+- **Tools**: <code><img width="50" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/></code> Git, <code><img width="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" title="PyCharm"/></code> PyCharm
 - **Testing**:
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code> pytest
 - **ORM**:
@@ -52,6 +52,12 @@ In my free time:
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Icinga_logo.svg/120px-Icinga_logo.svg.png" alt="ICinga" title="ICinga"/> ICinga</code>
 - **APM**: 
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Appd-logo-340x0_q100.png" alt="Appdynamics" title="Appdynamics"/> Appdynamics</code>
+- **Infrastructure As Code**: 
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/100px-Ansible_logo.svg.png" alt="Ansible" title="Ansible"/> Ansible</code>
+- **Scripting**: 
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/220px-Gnu-bash-logo.svg.png" alt="BASH" title="BASH"/> BASH</code>
+- **Search Platform**: 
+<code><img width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.softwaretestinghelp.com%2Fwp-content%2Fqa%2Fuploads%2F2021%2F07%2F1ELK-Stack-Architecture.png" alt="ELK" title="ELK"/> ELK</code>
 
 *Java Developer*
 ---
@@ -69,10 +75,20 @@ Java EE, JSP, Servlets, Spring JDBC
 <code><img width="50" src="https://img.icons8.com/color/96/tomcat.png" alt="Apache Tomcat" title="Apache Tomcat"/> Apache Tomcat</code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/145px-GlassFish_logo.svg.png" alt="Sun GlassFish" title="Sun GlassFish"/> Sun GlassFish</code>
 <code><img width="50" src="http://www.ephlux.com/wp-content/uploads/2012/10/Oracle-Weblogic-Server.png" alt="Oracle Weblogic" title="Oracle Weblogic"/> Oracle Weblogic</code>
-- **Web Framework**: Struts
-- **JS Framework**: Ajax,EXTJS,jQuery
+- **Tools**:
+<code><img width="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker" title="Docker"/></code> Docker 
+- **Web Framework**:
+<code><img width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftestrigor.com%2Fwp-content%2Fuploads%2F2023%2F03%2FApache-Struts-logo.png" alt="Struts" title="Struts"/></code> Struts 
+- **JS Framework**: 
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/190px-AJAX_logo_by_gengns.svg.png" alt="Ajax" title="Ajax"/></code> Ajax
+<code><img width="50" src="https://www.sencha.com/wp-content/uploads/2023/07/hero-center-img.svg" alt="EXTJS" title="EXTJS"/></code> EXTJS
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/220px-JQuery-Logo.svg.png" alt="jQuery" title="jQuery"/></code> jQuery
 - **Webservices**: JAX-WS
-- **Atlassian Products**: Bitbucket, Jira, Confluence, Bamboo
+- **Atlassian Products**:
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/BitBucket_SVG_Logo.svg/250px-BitBucket_SVG_Logo.svg.png" alt="Bitbucket" title="Bitbucket"/></code> Bitbucket
+<code><img width="50" src="https://jira.atlassian.com/static/images/jira-blue.svg" alt="Jira" title="Jira"/></code> Jira
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/220px-Atlassian_Confluence_2017_logo.svg.png" alt="Confluence" title="Confluence"/></code> Confluence
+<code><img width="50" src="https://wac-cdn.atlassian.com/misc-assets/adg4-nav/HeaderLogoBamboo.svg" alt="Bamboo" title="Bamboo"/></code> Bamboo
 - **DB**: Oracle 10g/11g, DB2, SQL Lite, PL/SQL
 ---
 
