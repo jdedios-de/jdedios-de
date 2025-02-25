@@ -58,6 +58,9 @@ In my free time:
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/220px-Gnu-bash-logo.svg.png" alt="BASH" title="BASH"/> BASH</code>
 - **Search Platform**: 
 <code><img width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.softwaretestinghelp.com%2Fwp-content%2Fqa%2Fuploads%2F2021%2F07%2F1ELK-Stack-Architecture.png" alt="ELK" title="ELK"/> ELK</code>
+- **Atlassian Products**:
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/220px-Atlassian_Confluence_2017_logo.svg.png" alt="Confluence" title="Confluence"/></code> Confluence
+<code><img width="50" src="https://wac-cdn.atlassian.com/dam/jcr:0efc8408-612f-4d99-98d3-b3ee714a5243/Opsgenie_24.svg?cdnVersion=2576" alt="Confluence" title="Opsgenie"/></code> Opsgenie
 
 *Java Developer*
 ---
