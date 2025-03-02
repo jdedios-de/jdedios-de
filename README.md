@@ -37,6 +37,9 @@ In my free time:
 - **Frameworks**:
 <code><img width="50" src="https://img.icons8.com/nolan/96/flask.png" alt="Flask " title="Flask "/></code> Flask
 <code><img width="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI " title="FastAPI"/></code> FastAPI
+<code><img width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D800%252Cheight%3D%252Cfit%3Dscale-down%252Cgravity%3Dauto%252Cformat%3Dauto%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnx70mm9lvwvnwna3q2sn.png&f=1&nofb=1&ipt=fd43c0b6c4fed066c5f61662bb767f074cf10cb9d9b933e330d88b00b5d33d83&ipo=images" alt="Pydantic " title="Pydantic"/></code> Pydantic
+<code><img width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Q4aEO9FqRJ1oa6aTnaYQrQHaDp%26pid%3DApi&f=1&ipt=d816040710010c08ea5d8fc93024427fbfcbff09ff6f73311f59c8a0c4e76d9e&ipo=images" alt="Logfire " title="Logfire"/></code> Logfire
+
 - **Tools**: <code><img width="50" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/></code> Git, <code><img width="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" title="PyCharm"/></code> PyCharm
 - **Testing**:
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code> pytest
