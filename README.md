@@ -34,12 +34,15 @@ In my free time:
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code> HTML
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code> CSS
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> Javascript
-- **Frameworks**: <code><img width="30" src="https://img.icons8.com/nolan/96/flask.png" alt="Flask " title="Flask "/></code> Flask 
+- **Frameworks**:
+<code><img width="50" src="https://img.icons8.com/nolan/96/flask.png" alt="Flask " title="Flask "/></code> Flask
+<code><img width="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI " title="FastAPI"/></code> FastAPI
 - **Tools**: <code><img width="50" src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/></code> Git, <code><img width="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="PyCharm" title="PyCharm"/></code> PyCharm
 - **Testing**:
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code> pytest
 - **ORM**:
-<code><img width="50" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*GQOCq59Ye8Ka4mEL.jpg" alt="SQLAlchemy " title="SQLAlchemy "/></code> SQLAlchemy 
+<code><img width="50" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*GQOCq59Ye8Ka4mEL.jpg" alt="SQLAlchemy " title="SQLAlchemy "/></code> SQLAlchemy
+<code><img width="50" src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg#only-light" alt="SQLModel " title="SQLModel "/></code> SQLModel 
 
 *Application Support Engineer*
 ---
