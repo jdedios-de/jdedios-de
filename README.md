@@ -17,6 +17,8 @@ In my free time:
 ## 💻 I am currently working on ... ##
 ⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
 #### [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations! ####
+⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
+#### [**Neet Code Workflow**](https://github.com/jdedios-de/neetcode-workflow) for my coding exercises! ####
 
 ---
 ## 📕 I am currently learning ... ##
