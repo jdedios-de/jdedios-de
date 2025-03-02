@@ -12,6 +12,8 @@ I’m passionate about:
 In my free time:
 - Watching **competitive Dota 2**
 <code><img width="70" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngplay.com%2Fwp-content%2Fuploads%2F10%2FDota-2-Logo-No-Background.png" alt="Dota 2" title="Dota 2"/></code>
+- **Home Automation**
+<code><img width="70" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Home_Assistant_logo_%282023%29.svg/220px-Home_Assistant_logo_%282023%29.svg.png" alt="Home Assistant" title="Home Assistant"/></code>
 
 ---
 ## 💻 I am currently working on ... ##
