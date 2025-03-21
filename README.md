@@ -115,7 +115,7 @@ Java EE, JSP, Servlets, Spring JDBC
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/jeromededios/) • jeromededios.de.2023@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jeromededios/) • jeromededios.de@proton.me
 
 ---
 
