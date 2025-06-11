@@ -23,6 +23,8 @@ In my free time:
 #### [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations! ####
 ⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
 #### [**Neet Code Workflow**](https://github.com/jdedios-de/neetcode-workflow) for my coding exercises! ####
+⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
+#### [**Rust Tutorials**](https://github.com/jdedios-de/rust-tutorial) for my rust tutorials ####
 
 ---
 ## 📕 I am currently learning ... ##
