@@ -18,14 +18,16 @@ In my free time:
 ---
 ## 💻 I am currently working on ... ##
 ⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
-#### [**MLOps Project**](https://github.com/jdedios-de/mlops) projects and experiments related to MLOps! ####
-⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
-#### [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations! ####
-⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
-#### [**Neet Code Workflow**](https://github.com/jdedios-de/neetcode-workflow) for my coding exercises! ####
-⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
-#### [**Rust Tutorials**](https://github.com/jdedios-de/rust-tutorial) for my rust tutorials ####
 
+
+#### [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations! ####
+
+#### [**Neet Code Workflow**](https://github.com/jdedios-de/neetcode-workflow) for my coding exercises! ####
+
+#### [**MLOps Project**](https://github.com/jdedios-de/mlops) projects and experiments related to MLOps! ####
+
+#### [**Rust Project**](https://github.com/jdedios-de/rust-tutorial) for my rust projects and tutorials ####
+<code><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="Rust">
 ---
 ## 📕 I am currently learning ... ##
 <code><img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fwikipedia%2Fflags%2F1024%2FDE-Germany-Flag-icon.png" alt="German" title="German"/></code>
