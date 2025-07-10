@@ -27,6 +27,9 @@ In my free time:
 #### [**MLOps Project**](https://github.com/jdedios-de/mlops) projects and experiments related to MLOps! ####
 
 #### [**Rust Project**](https://github.com/jdedios-de/rust-tutorial) for my rust projects and tutorials ####
+
+#### Java Projects ####
+##### [**Spring Boot AI Chatbot**](https://github.com/jdedios-de/springboot-ai-chatbot) - chatbot built with Spring Boot and Spring AI, powered by OpenAI's GPT ####
 ---
 ## 📕 I am currently learning ... ##
 <code><img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fwikipedia%2Fflags%2F1024%2FDE-Germany-Flag-icon.png" alt="German" title="German"/></code>
