@@ -20,16 +20,18 @@ In my free time:
 ⬇️ ⬇️⬇️ Check this out! ⬇️⬇️⬇️
 
 
-#### [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) for my projects and collaborations! ####
+#### [**Masterschool Weiterbildung**](https://github.com/masterschool-weiterbildung) - Projects and team collaborations from my Masterschool journey. ####
 
-#### [**Neet Code Workflow**](https://github.com/jdedios-de/neetcode-workflow) for my coding exercises! ####
+#### [**Neet Code Workflow**](https://github.com/jdedios-de/neetcode-workflow) - A collection of my coding exercises. ####
 
-#### [**MLOps Project**](https://github.com/jdedios-de/mlops) projects and experiments related to MLOps! ####
+#### [**MLOps Project**](https://github.com/jdedios-de/mlops) - A collection of projects and experiments related to MLOps. ####
 
-#### [**Rust Project**](https://github.com/jdedios-de/rust-tutorial) for my rust projects and tutorials ####
+#### Rust Projects ####
+
+##### [**Rust Tutorial**](https://github.com/jdedios-de/rust-tutorial) - A collection of materials for my Rust projects and tutorials. #####
 
 #### Java Projects ####
-##### [**Spring Boot AI Chatbot**](https://github.com/jdedios-de/springboot-ai-chatbot) - chatbot built with Spring Boot and Spring AI, powered by OpenAI's GPT ####
+##### [**Spring Boot AI Chatbot**](https://github.com/jdedios-de/springboot-ai-chatbot) - Spring Boot + Spring AI chatbot powered by OpenAI GPT. #####
 ---
 ## 📕 I am currently learning ... ##
 <code><img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fwikipedia%2Fflags%2F1024%2FDE-Germany-Flag-icon.png" alt="German" title="German"/></code>
